@@ -1,4 +1,4 @@
-## Basic Portfolio
+UofT SCS Full-Stack Web Development Boot Camp Project #1: HTML/CSS  Wireframe & Basic Protfolio
 
 This is a basic portfolio page design that has "Home",  "Portfolio", and "Contact" pages that is aimed to showcase portfolio projects I am working on as well as my contact information.
 
