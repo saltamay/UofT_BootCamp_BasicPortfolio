@@ -1,4 +1,4 @@
-UofT SCS Full-Stack Web Development Boot Camp Project #1: HTML/CSS  Wireframe & Basic Protfolio
+# UofT SCS Full-Stack Web Development Boot Camp Project #1: HTML/CSS  Wireframe & Basic Protfolio
 
 This is a basic portfolio page design that has "Home",  "Portfolio", and "Contact" pages that is aimed to showcase portfolio projects I am working on as well as my contact information.
 
@@ -10,7 +10,7 @@ In this project, I wanted to showcase my newly acquired as a front-end web devel
 
 HTML5 and CSS3
 
-### Features
+### Development Strategy
 
 1. Create a new repository in GitHub called `Basic-Portfolio`.
 2. Clone this repository to your computer using the process we went over in class.
